@@ -18,6 +18,15 @@ export default function Expertise() {
         <div className="mt-10 grid items-start gap-5 lg:grid-cols-2">
           <motion.article variants={reveal} className="h-fit border border-white/20 p-6 text-white">
             <p className="text-sm uppercase tracking-[0.18em] text-[#C9A227]">Work Experience</p>
+            <h3 className="mt-3 font-['Playfair_Display'] text-2xl">Rangsons Aerospace, Engineering Intern (AI/ML)</h3>
+            <p className="mt-2 text-sm text-white/80">Jan 2026 - Present | On-site</p>
+            <ul className="mt-4 list-disc space-y-2 pl-5 text-sm text-white/90">
+              <li>Performing data analysis on aerospace product datasets to support engineering and quality evaluations.</li>
+              <li>
+                Assisting in experimenting and validating 3-4 machine learning models under senior engineer guidance,
+                contributing to improved model reliability.
+              </li>
+            </ul>
             <h3 className="mt-3 font-['Playfair_Display'] text-2xl">Solvimate, AI & Web Development Intern</h3>
             <p className="mt-2 text-sm text-white/80">Feb 2026 - Present | Remote</p>
             <ul className="mt-4 list-disc space-y-2 pl-5 text-sm text-white/90">
