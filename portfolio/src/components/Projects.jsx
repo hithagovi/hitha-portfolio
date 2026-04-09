@@ -42,12 +42,12 @@ const projects = [
     ],
   },
   {
-    title: "Teja-Translation And Transcription",
-    category: "HTML5, CSS3, React.js",
-    date: "March 2025",
+    title: "Fashion Blog",
+    category: "HTML5, CSS3, PHP",
+    date: "Dec 2024",
     image: "/projects/fashion-blog.png",
-    link: "https://teja-project-submission.vercel.app/",
-    linkLabel: "View Live",
+    link: "https://github.com/hithagovi/fash.mini",
+    linkLabel: "View GitHub",
     points: [
       "Built a responsive fashion blog website with a clean interface.",
       "Implemented secure user input handling and file uploads with size validation.",
